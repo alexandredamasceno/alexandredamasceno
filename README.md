@@ -1,12 +1,8 @@
 ### Olá 👋, eu sou o Alexandre Damasceno
 
-##
-
 <div>
   <p>Por aqui você pode acompanhar toda a minha evolução, então não se assuste se algo estiver fora de ordem, <br>esse é o meu processo de aprendizagem. E nesse processo a sua ajuda é mais que bem vinda, <br>então se você tiver algum feedback, um conselho, dica, ou até mesmo indicações, <br>fique a vontade em compartilhar. </p>
 </div>
-
-##
 
 <div>
   <a href="https://github.com/alexandredamasceno">
