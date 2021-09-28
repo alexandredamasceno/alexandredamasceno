@@ -49,8 +49,8 @@
   ##
 
 <div id="study">
-  <p> <strong>Atualmente...</strong></P>
-  <p>sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
+  <p> <strong>Certificados</strong></P>
+<!--   <p>sou estudante de desenvolvimento Web Full-Stack na Trybe. </p> -->
   <a target="_blank" href="https://drive.google.com/file/d/158AQJW8QAI1p0RcctnKXiA6IPCMK_kmO/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
   </a>
