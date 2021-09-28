@@ -61,13 +61,13 @@
     Certificado - Front-End | Trybe
   </a>
   
-<!--
+
   <br>
   
   <a target="_blank" href="">
-    Certificado - Back-End | Trybe
+    Certificado - Back-End | Trybe - Loading...
   </a> 
--->
+
   
 </div>
 
