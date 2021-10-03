@@ -10,6 +10,28 @@
 <!--   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredamasceno&layout=compact&langs_count=7&theme=highcontrast"/> -->
 </div>
   
+ ##
+  
+<h3>Contato</h3>
+  <div align="left">
+  <span  >
+    <a href="https://www.linkedin.com/in/alexandredamasceno/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.instagram.com/eu.alexandredamasceno/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
+      </a>
+  </span>
+<!--   <span>
+    <a href="mailto:dangelo.silva.miranda@gmail.com?subject=Contato%20iniciado%20por%20github">
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
+      </a>
+    </span> -->
+    <br>
+    <br>
+  
 ##
   
 <div style="display: inline_block"><br>
