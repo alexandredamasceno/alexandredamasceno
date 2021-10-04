@@ -33,7 +33,6 @@
     <br>
   
   ##
- 
 <div style="display: inline_block"><br>
   <p><strong>Linguagens e ferramentas: </strong></p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
