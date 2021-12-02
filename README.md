@@ -22,7 +22,7 @@
 - 🤔 Adoro cinema, cultura pop/nerd, ler sobre desenvolvimento pessoal, finanças e tecnologia;
 - 📫 Por favor envie um email para ale.damasceno.silva@gmail.com para conversamos.
 <!-- - 💼 I’m pursuing a Bachelor's degree in Software Engineering; -->
-- 📝 See my [Curriculum Vitae](https://resume.io/r/JaCOqtnew) to get more info.
+- 📝 Veja meu [Curriculum Vitae](https://resume.io/r/JaCOqtnew) to para mais informações.
 
 <div style="display: inline_block"><br>
   <p><strong>Linguagens e ferramentas: </strong></p>
