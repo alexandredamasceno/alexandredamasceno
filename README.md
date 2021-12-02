@@ -1,38 +1,29 @@
 ### Olá 👋, eu sou o Alexandre Damasceno
 
+<a href="https://www.linkedin.com/in/alexandredamasceno/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
+</a>
+<a href="https://www.instagram.com/eu.alexandredamasceno/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
+</a>
+<br>
+<br>
 <div>
   <p>Por aqui você pode acompanhar toda a minha evolução, então não se assuste se algo estiver fora de ordem, <br>esse é o meu processo de aprendizagem. E nesse processo a sua ajuda é mais que bem vinda, <br>então se você tiver algum feedback, um conselho, dica, ou até mesmo indicações, <br>fique a vontade em compartilhar. </p>
 </div>
 
-<div>
-  <a href="https://github.com/alexandredamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandredamasceno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredamasceno&layout=compact&langs_count=7&theme=highcontrast"/> -->
-</div>
-  
- ##
-  
-<h3>Contato</h3>
-  <div align="left">
-  <span  >
-    <a href="https://www.linkedin.com/in/alexandredamasceno/" >
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
-    </a>
-  </span>
-  <span>
-    <a href="https://www.instagram.com/eu.alexandredamasceno/" >
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
-      </a>
-  </span>
-<!--   <span>
-    <a href="mailto:dangelo.silva.miranda@gmail.com?subject=Contato%20iniciado%20por%20github">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
-      </a>
-    </span> -->
-    <br>
-    <br>
-  
-  ##
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Abaut me:**
+
+- 👨🏽‍💻 Atualmente estou aprendendo Python na Trybe;
+- 💬 Competências desenvolvidas no Front-End: HTML, CSS, Javascript, React, Rect Hooks, Redux, Context API,
+- 🌱 Compentências desenvolvidas no Back-end: NodeJS, Express, MySQL, MongoDb, Sequelize, Socket.io; 
+- 🤔 Adoro cinema, cultura pop/nerd, ler sobre desenvolvimento pessoal, finanças e tecnologia;
+- 📫 Por favor envie um email para ale.damasceno.silva@gmail.com para conversamos.
+<!-- - 💼 I’m pursuing a Bachelor's degree in Software Engineering; -->
+<!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1l7D4dUCSAGithmscqf1WlzrVybN20eyr/view?usp=sharing) to get more info. -->
+
 <div style="display: inline_block"><br>
   <p><strong>Linguagens e ferramentas: </strong></p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
@@ -66,12 +57,19 @@
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
 </div>
-  
-  ##
 
-<div id="study">
-  <p> <strong>Certificados</strong></P>
-<!--   <p>sou estudante de desenvolvimento Web Full-Stack na Trybe. </p> -->
+![alexandredamasceno github status](https://github-readme-stats.vercel.app/api?username=alexandredamasceno&show_icons=true&hide_border=true)
+<div>
+  <a href="https://github.com/alexandredamasceno">
+    
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandredamasceno&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredamasceno&layout=compact&langs_count=7&theme=highcontrast"/> -->
+</div>
+  
+ ##
+ 
+<h4> <strong>Certificates</strong></h4>
+<div>
   <a target="_blank" href="https://drive.google.com/file/d/158AQJW8QAI1p0RcctnKXiA6IPCMK_kmO/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
   </a>
@@ -94,4 +92,4 @@
 
 ##
 
-<p>🥇 Desenvolvido por <strong><a href='https://github.com/alexandredamasceno'>Alexandre Damasceno</a></strong></p>
+<p>🥇 Baseado em <strong><a href='https://github.com/CallmeMehdi/'>CallmeMehdi</a></strong></p>
