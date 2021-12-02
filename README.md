@@ -17,8 +17,8 @@
 **Abaut me:**
 
 - 👨🏽‍💻 Atualmente estou aprendendo Python na Trybe;
-- 💬 Competências desenvolvidas no Front-End: HTML, CSS, Javascript, React, Rect Hooks, Redux, Context API,
-- 🌱 Compentências desenvolvidas no Back-end: NodeJS, Express, MySQL, MongoDb, Sequelize, Socket.io; 
+- 💬 Competências desenvolvidas no Front-End: HTML, CSS, Javascript, React, Rect Hooks, Redux, Context API, dentre outras;
+- 🌱 Compentências desenvolvidas no Back-end: NodeJS, Express, MySQL, MongoDb, Sequelize, Socket.io, dentre outras; 
 - 🤔 Adoro cinema, cultura pop/nerd, ler sobre desenvolvimento pessoal, finanças e tecnologia;
 - 📫 Por favor envie um email para ale.damasceno.silva@gmail.com para conversamos.
 <!-- - 💼 I’m pursuing a Bachelor's degree in Software Engineering; -->
