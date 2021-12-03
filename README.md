@@ -1,18 +1,14 @@
-### Olá 👋, eu sou o Alexandre Damasceno
-
 <a href="https://www.linkedin.com/in/alexandredamasceno/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
 </a>
-<a href="https://www.instagram.com/eu.alexandredamasceno/" >
+<!-- <a href="https://www.instagram.com/eu.alexandredamasceno/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
-</a>
+</a> -->
 <br>
-<br>
-<div>
-  <p>Por aqui você pode acompanhar toda a minha evolução, então não se assuste se algo estiver fora de ordem, <br>esse é o meu processo de aprendizagem. E nesse processo a sua ajuda é mais que bem vinda, <br>então se você tiver algum feedback, um conselho, dica, ou até mesmo indicações, <br>fique a vontade em compartilhar. </p>
-</div>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+### Olá 👋, me chamo Alexandre Damasceno e sou Desenvolvedor Web Full Stack 🚀
+
+<img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Abaut me:**
 
@@ -68,7 +64,7 @@
   
  ##
  
-<h4> <strong>Certificates</strong></h4>
+<!-- <h4> <strong>Certificates</strong></h4>
 <div>
   <a target="_blank" href="https://drive.google.com/file/d/158AQJW8QAI1p0RcctnKXiA6IPCMK_kmO/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
@@ -88,8 +84,6 @@
   </a> 
 
   
-</div>
-
-##
+</div> -->
 
 <p>🥇 Baseado em <strong><a href='https://github.com/CallmeMehdi/'>CallmeMehdi</a></strong></p>
