@@ -1,6 +1,9 @@
 <a href="https://www.linkedin.com/in/alexandredamasceno/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
 </a>
+<a href="https://api.whatsapp.com/send?phone=5561983052907" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/whatsapp.svg" width="4%" />
+</a>
 <!-- <a href="https://www.instagram.com/eu.alexandredamasceno/" >
       <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" width="4%"/>
 </a> -->
