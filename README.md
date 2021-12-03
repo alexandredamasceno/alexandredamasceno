@@ -8,7 +8,7 @@
 
 ### Olá 👋, me chamo Alexandre Damasceno e sou Desenvolvedor Web Full Stack 🚀
 
-<img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Abaut me:**
 
