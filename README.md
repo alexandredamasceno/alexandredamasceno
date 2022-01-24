@@ -20,7 +20,7 @@
 - 🌱 Compentências desenvolvidas no Back-end: NodeJS, Express, MySQL, MongoDb, Sequelize, Socket.io, dentre outras; 
 - 🤔 Adoro cinema, cultura pop/nerd, ler sobre desenvolvimento pessoal, finanças e tecnologia;
 - 📫 Por favor envie um email para ale.damasceno.silva@gmail.com para conversamos.
-- 📝 Veja meu [Curriculum Vitae](https://resume.io/r/JaCOqtnew) para mais informações.
+- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1HqRBqxNC-qsWoa8JSoDDQ56U44e-9_tr/view?usp=sharing) para mais informações.
 <!-- - 💼 I’m pursuing a Bachelor's degree in Software Engineering; -->
 
 <div style="display: inline_block"><br>
